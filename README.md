@@ -1,5 +1,13 @@
 Just make some conflict just for fun
-This is just a test. Jenkins. Git... Sad
+
+This is just a test. 
+
+Jenkins. 
+
+Git... 
+
+Sad
+
 This is: 31
 
 This is: 32
